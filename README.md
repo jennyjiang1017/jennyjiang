@@ -1,1 +1,1 @@
-https://github.com/jennyjiang1017/jennyjiang.git
+https://jennyjiang1017.github.io/jennyjiang/
